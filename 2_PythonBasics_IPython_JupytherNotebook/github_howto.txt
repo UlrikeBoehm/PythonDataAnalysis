@@ -1,0 +1,15 @@
+1. Download: git
+https://git-scm.com/downloads
+
+2. Go to the folder you want to upload to GitHub, right click and click "Git Bash Here"
+
+3. Code
+
+git remore add origin https://github.com/ulrikeboehm/PythonDataAnalysis
+git add .
+git commit -m "New file"
+git push -u origin master
+
+check with: git status
+
+if the files have been changed in github you have to pull (git pull) before you push

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d42013f6-68e6-4ec1-a41f-6b1d08f0d638" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2_PythonBasics_IPython_JupytherNotebook/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_PythonBasics_IPython_JupytherNotebook/text.py" afterDir="false" />
-    </list>
+    <list default="true" id="d42013f6-68e6-4ec1-a41f-6b1d08f0d638" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/2_PythonBasics_IPython_JupytherNotebook/text.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -76,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1716" />
     <option name="width" value="2126" />
     <option name="height" value="2062" />
@@ -163,7 +161,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="858" y="0" width="1063" height="1031" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46153846" />
@@ -191,7 +188,7 @@
     <entry file="file://$PROJECT_DIR$/2_PythonBasics_IPython_JupytherNotebook/text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
